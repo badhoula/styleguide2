@@ -1,0 +1,88 @@
+body{
+	font-family:'Bebas Neue', cursive;
+	background-color: #0C0C0C;
+	color: #f2f2f2
+}
+.container{
+	border: 2px solid #f2f2f2;
+	padding: 10px;
+	margin: 10px auto
+}
+.color-container{
+	width: 100%;
+}
+.color-panel{
+	display: inline-block;
+	width: 12.5%;
+	tect-align: center;
+	margin: 20px auto;
+	min-height: 100px;
+	
+}
+.black{
+	background-color: #0c0c0c;
+	color:#F2F2F2;
+}
+.OffWhite{
+	background-color: #f2f2f2;
+	color: #0C0C0C;
+}
+.Bold-red{
+	background-color:#EF4B3C;
+	color: #0c0c0c;
+}
+.Rise-Yellow{
+	background-color: #ffbd17;
+	color: #0c0c0c;
+}
+.Calm-Blue{
+	background-color: #1973c0;
+	color: #0c0c0c;
+	
+}
+.Flow-Green{
+	background-color: #1da849;
+	color: #0c0c0c
+}
+.Roam-Pink{
+	background-color: #F9B6B1;
+    color:#0c0c0c;
+}
+.Peach{
+	background-color: #e8c5ac;
+	color: #0c0c0c
+	
+}
+.font-panel{
+	width: 45%;
+	display: inline-block
+}
+.font-label{
+	font-size: 32px;
+	text-decoration: line-through;
+		
+}
+.regualar{
+	font-style:normal;
+}
+.bold{
+	font-weight: 800;
+}
+.Bebas-Neue{
+	font-family: 'Bebas Neue', cursive;
+}
+.text-panel h1{
+	font-weight:800;
+	font-size: 64px;
+	font-family: 'Bebas Neue', cursive;
+}
+.text-panel h2{
+	font-weight: 500;
+	font-size: 32px;
+	font-family: 'Bebas Neue', cursive;
+}
+.text-panel p{
+	font-weight:300;
+	font-size: 18px;
+	font-family: 'Bebas Neue', cursive; 
+}
